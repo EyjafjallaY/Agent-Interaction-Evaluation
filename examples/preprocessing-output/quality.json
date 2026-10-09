@@ -1,0 +1,23 @@
+{
+  "questionnaire_rows": 3168,
+  "frame_rows": 23328,
+  "event_rows": 384,
+  "participants": 48,
+  "original_phases": [
+    1,
+    2,
+    4
+  ],
+  "unpaired_person_phases": 0,
+  "confidence_filter_applied": false,
+  "au_missing_values": {
+    "AU06_r": 0,
+    "AU09_r": 0,
+    "AU12_r": 0,
+    "AU15_r": 0
+  },
+  "all_data_synthetic": true,
+  "frame_confidence_at_least_08_ratio": 0.7995970507544582,
+  "missing_or_invalid_confidence_rows": 0,
+  "model_fitting_performed": false
+}

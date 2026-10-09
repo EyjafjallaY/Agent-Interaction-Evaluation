@@ -1,0 +1,15 @@
+Original_Phase,Dimension,k_items,n_obs,alpha,unit,single_item
+1,Anthropomorphism,2,96,0.5797793021175068,participant x condition; pooled,False
+1,Psychological Engagement / Co-presence,3,96,0.6844744919453525,participant x condition; pooled,False
+1,Perceived Quality,3,96,0.7704943043124491,participant x condition; pooled,False
+1,Comfort,3,96,0.6929342427653797,participant x condition; pooled,False
+2,Anthropomorphism,2,96,0.6928008548150129,participant x condition; pooled,False
+2,Psychological Engagement / Co-presence,1,96,,participant x condition; pooled,True
+2,Perceived Quality,5,96,0.2766309162237408,participant x condition; pooled,False
+2,Interruption appropriateness,2,96,0.6893200362647323,participant x condition; pooled,False
+2,Independent question,1,96,,participant x condition; pooled,True
+4,Anthropomorphism,2,96,0.6677280908209886,participant x condition; pooled,False
+4,Psychological Engagement / Co-presence,2,96,0.6195317673639515,participant x condition; pooled,False
+4,Perceived Quality,3,96,0.7758735273386365,participant x condition; pooled,False
+4,Comfort,3,96,0.7219513178044653,participant x condition; pooled,False
+4,Independent question,1,96,,participant x condition; pooled,True

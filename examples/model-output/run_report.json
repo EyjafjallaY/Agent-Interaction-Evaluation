@@ -1,0 +1,43 @@
+{
+  "analysis_profile": "archived_notebooks",
+  "synthetic": true,
+  "paper_results_reproduced": false,
+  "quality": {
+    "questionnaire_rows": 3168,
+    "frame_rows": 23328,
+    "event_rows": 384,
+    "participants": 48,
+    "original_phases": [
+      1,
+      2,
+      4
+    ],
+    "unpaired_person_phases": 0,
+    "confidence_filter_applied": false,
+    "au_missing_values": {
+      "AU06_r": 0,
+      "AU09_r": 0,
+      "AU12_r": 0,
+      "AU15_r": 0
+    },
+    "all_data_synthetic": true,
+    "frame_confidence_at_least_08_ratio": 0.7995970507544582,
+    "missing_or_invalid_confidence_rows": 0
+  },
+  "outputs": {
+    "questionnaire": {
+      "condition_rows": 14,
+      "trait_rows": 210,
+      "condition_fits_requiring_review": 0,
+      "trait_fits_requiring_review": 0
+    },
+    "openface": {
+      "condition_rows": 12,
+      "trait_rows": 180,
+      "condition_fits_requiring_review": 12,
+      "trait_fits_requiring_review": 60
+    }
+  },
+  "inference": "model-based covariance; not participant cluster-robust SE",
+  "maxiter": 200
+}

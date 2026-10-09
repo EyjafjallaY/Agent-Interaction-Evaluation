@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "For the motivating research, cite the ECSCW article below. This local software candidate has separate provenance and pending redistribution rights."
+title: "Digital Human Interaction Evaluation"
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Ye
+    given-names: Jingyu
+preferred-citation:
+  type: conference-paper
+  title: '"Because I Know It Is an AI": How User Personality and AI-Schema Shape the Social Contract of Digital Humans'
+  authors:
+    - family-names: Ye
+      given-names: Jingyu
+    - family-names: Xu
+      given-names: Xichun
+    - family-names: Xu
+      given-names: Jialin
+    - family-names: Yan
+      given-names: Kaicheng
+    - family-names: Yang
+      given-names: Leyi
+    - family-names: Yang
+      given-names: Liu
+  year: 2026
+  doi: 10.48340/ecscw2026_108
+  conference:
+    name: "ECSCW 2026"
